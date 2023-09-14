@@ -1,0 +1,32 @@
+[
+  {
+    "id": "12345",
+    "cover_img": "https://i.ibb.co/RQzgp9v/2.png",
+    "title": "The Secrets of Artificial Intelligence",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/Yfb4q2L/boy1.png",
+    "posted_date": "2023-09-14T10:15:00Z",
+    "reading_time": "1200",
+    "hashtag": ["AI", "machine learning", "technology"]
+  },
+  {
+    "id": "67890",
+    "cover_img": "https://i.ibb.co/tzzyj84/4.jpg",
+    "title": "Exploring Mars: A Journey to the Red Planet",
+    "author": "David Johnson",
+    "author_img": "https://i.ibb.co/56Y9MzP/girl2.jpg",
+    "posted_date": "2023-09-13T15:45:00Z",
+    "reading_time": "1080",
+    "hashtag": ["space", "exploration", "science"]
+  },
+  {
+    "id": "23456",
+    "cover_img": "https://i.ibb.co/GQpVs9W/1.jpg",
+    "title": "The Art of Cooking: Mastering the Culinary World",
+    "author": "Maria Gonzalez",
+    "author_img": "https://i.ibb.co/cNJCzfx/boy2.jpg",
+    "posted_date": "2023-09-12T09:30:00Z",
+    "reading_time": "720",
+    "hashtag": ["cooking", "food", "culinary"]
+  }
+]
